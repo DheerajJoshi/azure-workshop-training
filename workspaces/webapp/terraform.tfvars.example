@@ -1,0 +1,6 @@
+resource_group = "yourname_resource_group"
+admin_username = "yourname"
+admin_password = "Mypassword11!"
+
+# hostname must be DNS compliant.  No spaces, no weird characters.
+hostname = "catapp"
